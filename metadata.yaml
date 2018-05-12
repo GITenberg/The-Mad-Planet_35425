@@ -1,0 +1,35 @@
+_repo: The-Mad-Planet_35425
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: In the aftermath of massive, large-scale destruction, civilization must
+  begin again. "The Mad Planet" details the halting development of a new society after
+  the planet has been ravaged by environmental damage. The tale focuses on a simple
+  but decent and well-intentioned hero, Burl, who seeks to survive against the odds
+  in this dangerous era.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2011-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Mad Planet
+url: http://www.gutenberg.org/ebooks/35425
